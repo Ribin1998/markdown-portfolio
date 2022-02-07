@@ -2,16 +2,18 @@ Replace this with a list of your favorite things.
 
 <html>
   <body>
-    <ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+   <ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
 </ol>
     
     <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
 </ul>
   </body>
   </html>
