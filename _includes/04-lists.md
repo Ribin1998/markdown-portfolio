@@ -3,10 +3,11 @@ Replace this with a list of your favorite things.
 <html>
   <body>
    <ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>:heart:</li>
+  <li>:+1:</li>
+  <li>:smile:</li>
+  <li>:sparkles:</li>
+   <li>:tada:</li>
 </ol>
     
     
